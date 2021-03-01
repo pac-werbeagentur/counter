@@ -1,0 +1,10 @@
+*//*!
+ * This CSS resource incorporates links to font software which is the valuable copyrighted
+ * property of Monotype and/or its suppliers. You may not attempt to copy, install,
+ * redistribute, convert, modify or reverse engineer this font software. Please contact Monotype
+ * with any questions regarding Web Fonts:  http://www.linotype.com
+ */
+ @import url("https://fast.fonts.net/lt/1.css?apiType=css&c=087d6a55-388b-43b2-95c6-66820e77f84e&fontids=1366836,1366840,1366860,1366862");@font-face{font-family:"Rotis Sans Serif W06 Regular";src:url("fonts/rotis/sans-serif-regular/09e5f453-7472-4822-9b50-1c629cf6a1e9.eot?#iefix");src:url("fonts/rotis/sans-serif-regular/09e5f453-7472-4822-9b50-1c629cf6a1e9.eot?#iefix") format("eot"),url("fonts/rotis/sans-serif-regular/f81707f0-ca56-477f-803e-938100a0c0e3.woff2") format("woff2"),url("fonts/rotis/sans-serif-regular/e8ae3c10-651a-4d13-8b65-f50a62bc7450.woff") format("woff"),url("fonts/rotis/sans-serif-regular/49d0db42-40b9-4b7b-a485-831c7ee4f8cf.ttf") format("truetype"),url("fonts/rotis/sans-serif-regular/95c1040e-3ddf-44da-af44-ac6e45f017ba.svg#95c1040e-3ddf-44da-af44-ac6e45f017ba") format("svg")}
+ body{
+	font-family: "Rotis Sans Serif W06 Regular",Arial,sans-serif;
+ }
