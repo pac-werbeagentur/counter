@@ -1,5 +1,5 @@
 // Set target date UTC (-1 hour) (year, month (0-11), day, hour, minute, second, millisecond)
-const TARGET_UTC = new Date(Date.UTC(2021, 3, 15, 12, 30, 0));
+const TARGET_UTC = new Date(Date.UTC(2021, 3, 22, 12, 30, 0));
 
 // Constants for calculation
 const FACTOR_SEC = 1000;
